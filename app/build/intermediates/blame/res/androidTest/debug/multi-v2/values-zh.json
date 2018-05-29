@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Work\\UNTAG\\ProjectKhibul\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-zh\\values-zh.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ikko\\.gradle\\caches\\transforms-1\\files-1.1\\android-image-cropper-2.4.6.aar\\854023721f78349cc1e15be66180aa3e\\res\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,107,169,232",
+                        "endColumns": "51,61,62,64",
+                        "endOffsets": "102,164,227,292"
+                    }
+                }
+            ]
+        }
+    ]
+}
